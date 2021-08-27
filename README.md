@@ -10,7 +10,7 @@ npm i vue-nuxt-accordion --save
 ``
 https://github.com/Rashad-Yusifov/vue-nuxt-accordion
 
-```
+``
 
 
 ## How to use component ? (example)

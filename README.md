@@ -2,7 +2,7 @@
 
 ## If you want install only package
 ```
-npm install v-accordion --save
+npm i vue-nuxt-accordion --save
 ```
 
 ## You will make the add-ons yourself, you can download the repository.

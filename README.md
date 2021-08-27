@@ -7,8 +7,9 @@ npm i vue-nuxt-accordion --save
 
 ## You will make the add-ons yourself, you can download the repository.
 
-```
-https://github.com/Rashad-Yusifov/v-accordion.git
+``
+https://github.com/Rashad-Yusifov/vue-nuxt-accordion
+
 ```
 
 
